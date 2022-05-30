@@ -1,5 +1,7 @@
 # algorithm-study
-#保证在数组大小范围内的查重
+/*
+保证在数组大小范围内的查重
+*/
 class Solution {
 public:
     int findRepeatNumber(vector<int>& nums) {
